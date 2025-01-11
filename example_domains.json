@@ -1,0 +1,4 @@
+{
+    "example.com": ["*"],
+    "example2.com": ["sub1","sub2"]
+}
